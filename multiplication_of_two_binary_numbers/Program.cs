@@ -24,7 +24,7 @@ namespace multiplication_of_two_binary_numbers
                 if (digit == 1)
                 {
                     binary1 = binary1 * factor;
-                    multiply = pg.binaryproduct(binary1, multiply);
+                    multiply = pg.Binaryproduct(binary1, multiply);
                 }
                 else
                 {
