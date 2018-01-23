@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplication_of_two_binary_numbers", "multiplication_of_two_binary_numbers\multiplication_of_two_binary_numbers.csproj", "{EABE598D-AEEA-4493-B402-E9B9F041046D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABE598D-AEEA-4493-B402-E9B9F041046D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABE598D-AEEA-4493-B402-E9B9F041046D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABE598D-AEEA-4493-B402-E9B9F041046D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABE598D-AEEA-4493-B402-E9B9F041046D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
